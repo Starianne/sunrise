@@ -1,3 +1,3 @@
 function ClickHello() {
-    alert("Hello");
+    alert("Get ready for Oreo's greatness");
 }
